@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 
   
   [email]: mailto:jaykang0395@gmail.com
-  [linkedin]: https://www.linkedin.com/in/jay-kang-b5284a228/
+  [linkedin]: https://www.linkedin.com/in/iamjaykang
   [github]: https://github.com/iamjaykang
